@@ -1,0 +1,31 @@
+{
+  "shoppingPreference": {
+    "wantSoldOut": true,
+    "pricingMode": "Money"
+  },
+  "cabinClasses": [
+    "Economy",
+    "Business",
+    "First"
+  ],
+  "passengerCount": {
+    "adult": 1,
+    "child": 1,
+    "infant": 1
+  },
+  "itineraries": [
+    {
+      "departureDate": "2022-07-07",
+      "origin": {
+        "airport": {
+          "code": "PVG"
+        }
+      },
+      "destination": {
+        "airport": {
+          "code": "PKX"
+        }
+      }
+    }
+  ]
+}

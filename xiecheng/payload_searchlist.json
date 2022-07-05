@@ -1,0 +1,74 @@
+{
+  "data": "{\"searchParameter\":{\"searchFlightItems\":[{\"departureCode\":\"BJS\",\"arrivalCode\":\"SHA\",\"departureDate\":\"2022-06-29\"}],\"tripType\":\"ONE_WAY\",\"regionType\":\"DOMESTIC\",\"passengers\":{\"ADULT\":1,\"CHILD\":0,\"INFANT\":0}}}",
+  "head": {
+    "cid": "09031036218372901773",
+    "ctok": "",
+    "cver": "1.0",
+    "syscode": "09",
+    "sid": "8888",
+    "lang": "01",
+    "auth": "",
+    "extension": [
+      {
+        "name": "Flt_SubChannel",
+        "value": ""
+      },
+      {
+        "name": "mystery",
+        "value": "MDkwMzEwMzYyMTgzNzI5MDE3NzMueyJzZWFyY2hQYXJhbWV0ZXIiOnsic2VhcmNo"
+      },
+      {
+        "name": "sessionId",
+        "value": "4fb58e3-451c-413a-a1fb-ce88ec7a6747"
+      },
+      {
+        "name": "pageName",
+        "value": "FIRST"
+      },
+      {
+        "name": "searchKey",
+        "value": ""
+      },
+      {
+        "name": "aId",
+        "value": "4897"
+      },
+      {
+        "name": "sId",
+        "value": "353693"
+      },
+      {
+        "name": "ouId",
+        "value": ""
+      },
+      {
+        "name": "sourceId",
+        "value": "55551825"
+      },
+      {
+        "name": "exmktID",
+        "value": ""
+      },
+      {
+        "name": "env",
+        "value": "h5"
+      },
+      {
+        "name": "version",
+        "value": "2022.06.16"
+      },
+      {
+        "name": "aid",
+        "value": "4897"
+      },
+      {
+        "name": "sid",
+        "value": "353693"
+      },
+      {
+        "name": "protocal",
+        "value": "https"
+      }
+    ]
+  }
+}

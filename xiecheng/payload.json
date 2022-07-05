@@ -1,0 +1,51 @@
+{
+  "flightWayEnum": "OW",
+  "arrivalProvinceId": 23,
+  "extGlobalSwitches": {
+    "useAllRecommendSwitch": true,
+    "unfoldPriceListSwitch": true
+  },
+  "arrivalCountryName": "中国",
+  "infantCount": 0,
+  "cabin": "Y_S_C_F",
+  "cabinEnum": "Y_S_C_F",
+  "departCountryName": "中国",
+  "flightSegments": [
+    {
+      "departureDate": "2022-06-29",
+      "arrivalProvinceId": 23,
+      "arrivalCountryName": "中国",
+      "arrivalCountryCode": "CN",
+      "departureCityName": "成都",
+      "departureCityCode": "CTU",
+      "departureCountryName": "中国",
+      "departureCountryCode": "CN",
+      "arrivalCityName": "广州",
+      "arrivalCityCode": "CAN",
+      "departureCityTimeZone": 480,
+      "arrivalCountryId": 1,
+      "timeZone": 480,
+      "departureCityId": 28,
+      "departureCountryId": 1,
+      "arrivalCityTimeZone": 480,
+      "departureProvinceId": 22,
+      "arrivalCityId": 32
+    }
+  ],
+  "childCount": 0,
+  "segmentNo": 1,
+  "scope": "d",
+  "adultCount": 1,
+  "extensionAttributes": {
+    "LoggingSampling": false,
+    "isFlightIntlNewUser": false
+  },
+  "transactionID": "501c2b75b6b144d39def036a98d9286c",
+  "directFlight": false,
+  "departureCityId": 28,
+  "isMultiplePassengerType": 0,
+  "noRecommend": false,
+  "flightWay": "S",
+  "arrivalCityId": 32,
+  "departProvinceId": 22
+}

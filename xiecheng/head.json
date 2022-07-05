@@ -1,0 +1,94 @@
+[
+  {
+    "name": ":authority",
+    "value": "flights.ctrip.com"
+  },
+  {
+    "name": ":method",
+    "value": "POST"
+  },
+  {
+    "name": ":path",
+    "value": "/international/search/api/search/batchSearch?v=0.8974648786273631"
+  },
+  {
+    "name": ":scheme",
+    "value": "https"
+  },
+  {
+    "name": "accept",
+    "value": "application/json"
+  },
+  {
+    "name": "accept-encoding",
+    "value": "gzip, deflate, br"
+  },
+  {
+    "name": "accept-language",
+    "value": "zh-CN,zh;q=0.9"
+  },
+  {
+    "name": "cache-control",
+    "value": "no-cache"
+  },
+  {
+    "name": "content-length",
+    "value": "1043"
+  },
+  {
+    "name": "content-type",
+    "value": "application/json;charset=UTF-8"
+  },
+  {
+    "name": "cookie",
+    "value": "_RSG=UBKGEO3yEsAP9xkux4OufA; _RDG=28c2ce45e3fa8428fb3a0480f9e15c7c7e; _RGUID=ad8ef036-0e41-42de-aa78-604ef8bbb259; _bfaStatusPVSend=1; _RF1=114.83.38.117; FlightIntl=Search=[%22CTU|%E6%88%90%E9%83%BD(CTU)|28|CTU|480%22%2C%22CAN|%E5%B9%BF%E5%B7%9E(CAN)|32|CAN|480%22%2C%222022-06-29%22]; GUID=09031160118635094851; _abtest_userid=052b5661-fa9f-43ed-98b5-0fed5ac6058e; _bfi=p1%3D10320673302%26p2%3D10320673302%26v1%3D31%26v2%3D30; _bfaStatus=success; _bfa=1.1656048454332.3xffcg.1.1656385586689.1656390477907.9.32.1; _bfs=1.1; _ubtstatus=%7B%22vid%22%3A%221656048454332.3xffcg%22%2C%22sid%22%3A9%2C%22pvid%22%3A32%2C%22pid%22%3A10320673302%7D"
+  },
+  {
+    "name": "origin",
+    "value": "https://flights.ctrip.com"
+  },
+  {
+    "name": "referer",
+    "value": "https://flights.ctrip.com/online/list/oneway-ctu-can?_=1&depdate=2022-06-29&cabin=Y_S_C_F"
+  },
+  {
+    "name": "scope",
+    "value": "d"
+  },
+  {
+    "name": "sec-ch-ua",
+    "value": "\".Not/A)Brand\";v=\"99\", \"Google Chrome\";v=\"103\", \"Chromium\";v=\"103\""
+  },
+  {
+    "name": "sec-ch-ua-mobile",
+    "value": "?0"
+  },
+  {
+    "name": "sec-ch-ua-platform",
+    "value": "\"Linux\""
+  },
+  {
+    "name": "sec-fetch-dest",
+    "value": "empty"
+  },
+  {
+    "name": "sec-fetch-mode",
+    "value": "cors"
+  },
+  {
+    "name": "sec-fetch-site",
+    "value": "same-origin"
+  },
+  {
+    "name": "sign",
+    "value": "e7a08c8ece2bec242ae6caf9ada94174"
+  },
+  {
+    "name": "transactionid",
+    "value": "501c2b75b6b144d39def036a98d9286c"
+  },
+  {
+    "name": "user-agent",
+    "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+  }
+]
